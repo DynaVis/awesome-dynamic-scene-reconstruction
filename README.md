@@ -11,7 +11,6 @@ A curated list of awesome neural scene reconstruction datasets and papers, inspi
 |[DeepDeform](https://github.com/AljazBozic/DeepDeform)|
 |[Deformable Surface Reconstruction](https://www.epfl.ch/labs/cvlab/data/data-dsr-index-php/)|
 |[Hybrid modelling of non-rigid scenes from RGBD cameras](https://cvssp.org/projects/4d/dynamic_rgbd_modelling/)|
-|[MPI Dynamic FAUST](https://dfaust.is.tue.mpg.de/)|
 |[Unstructured Video-Based Rendering:Interactive Exploration of Casually Captured Videos](https://cvg.ethz.ch/research/unstructured-vbr/)|
 
 
@@ -24,5 +23,6 @@ A curated list of awesome neural scene reconstruction datasets and papers, inspi
 |[CAPE: Clothed Auto Person Encoding](https://cape.is.tue.mpg.de/index.html)|
 |[DeepHuman: 3D Human Reconstruction from a Single Image](http://www.liuyebin.com/deephuman/deephuman.html)| 
 |[Dressed Humans](https://team.inria.fr/morpheo/estimation-of-human-body-shape-in-motion-with-wide-clothing/)|
+|[MPI Dynamic FAUST](https://dfaust.is.tue.mpg.de/)|
 |[SURREAL Dataset](https://www.di.ens.fr/willow/research/surreal/data/)|
 |[SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://virtualhumans.mpi-inf.mpg.de/sizer/)|
