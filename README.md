@@ -1,13 +1,6 @@
 # Awesome Dynamic Scene Reconstruction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome dynamic scene reconstruction datasets, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-## Dataset Repositories
-A list of larger dataset repos that are used for multiple works.
-|Title|
-|-----|
-|[4D Repository](https://kinovis.inria.fr/4d-repository/)|
-|[CVSSP3D](https://cvssp.org/data/cvssp3d/)| 
-
 ## Papers 
 Papers are organised into two catergeries, "General Scenes" and "Human-centric", with links to paper, project, code and datasets where available.
 
@@ -23,8 +16,6 @@ Papers are organised into two catergeries, "General Scenes" and "Human-centric",
 |[3D Reconstruction of Dynamic Scenes with Multiple Handheld Cameras](https://link.springer.com/chapter/10.1007/978-3-642-33709-3_43)| ECCV 2012|
 |[Multi-view Occlusion Reasoning for Probabilistic Silhouette-Based Dynamic Scene Reconstruction](http://vision.cse.psu.edu/research/3Dreconstruction/relatedWork/papers/GuanAndPollefeys_SilhouetteBased.pdf)| IJCV 2010 | - |
 
-
-
 ### Human-centric
 |Title|Venue|Links|
 |-----|-----|-----|
@@ -32,5 +23,12 @@ Papers are organised into two catergeries, "General Scenes" and "Human-centric",
 |[Articulated Mesh Animation from Multi-view Silhouettes](http://people.csail.mit.edu/drdaniel/research/vlasic-2008-ama.pdf) | ToG 2008 | [project](http://people.csail.mit.edu/drdaniel/mesh_animation/) <br> [data](http://people.csail.mit.edu/drdaniel/mesh_animation/#data)|
 
 
+
+## Dataset Repositories
+A list of larger dataset repos that are used for multiple works.
+|Title|
+|-----|
+|[4D Repository](https://kinovis.inria.fr/4d-repository/)|
+|[CVSSP3D](https://cvssp.org/data/cvssp3d/)| 
 
 
