@@ -2,7 +2,7 @@
 A curated list of awesome dynamic scene reconstruction datasets, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 ## Papers 
-Papers are organised into two catergeries, "General Scenes" and "Human-centric", with links to paper, project, code and datasets where available.
+Papers are organised into two categories, "General Scenes" and "Human-centric", with links to paper, project, code and datasets where available.
 
 ### General Scenes
 |Title|Venue|Links|
