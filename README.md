@@ -14,6 +14,10 @@ Papers are organised into two categories, "General Scenes" and "Human-centric", 
 |-----| :---:| :---: |
 |[DynIBaR Neural Dynamic Image-Based Rendering](https://arxiv.org/abs/2211.11082) | CVPR 2023| [project](https://dynibar.github.io/)<br>[code](https://github.com/google/dynibar)|
 |[DynamicStereo: Consistent Dynamic Depth from Stereo Videos](https://arxiv.org/abs/2305.02296) | CVPR 2023 | [project](https://dynamic-stereo.github.io/) <br> [code](https://github.com/facebookresearch/dynamic_stereo)|
+|[Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](https://arxiv.org/abs/2302.09311)| CVPR 2023 | [project](https://sungheonpark.github.io/tempinterpnerf/) |
+|[HexPlane: A Fast Representation for Dynamic Scenes](https://arxiv.org/abs/2301.09632)| CVPR 2023 | [project](https://caoang327.github.io/HexPlane/) <br> [code](https://github.com/Caoang327/HexPlane) |
+|[NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435)|CVPR 2023 | [project](https://jokeryan.github.io/projects/nerf-ds/) <br> [code](https://github.com/JokerYan/NeRF-DS) <br> [data](https://github.com/JokerYan/NeRF-DS/releases/tag/v0.1-pre-release) | 
+|[Neural 3D Video Synthesis from Multi-view Video](https://arxiv.org/abs/2103.02597)| CVPR 2022 | [project](https://neural-3d-video.github.io/) <br> [data](https://github.com/facebookresearch/Neural_3D_Video) |
 |[OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://arxiv.org/abs/2203.07977) | CVPR 2022 | [project](https://wenbin-lin.github.io/OcclusionFusion/) <br> [code](https://github.com/wenbin-lin/OcclusionFusion/) | 
 |[DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data](https://arxiv.org/abs/1912.04302)| CVPR 2020 | [project](https://niessnerlab.org/projects/bozic2020deepdeform.html) <br> [data](https://github.com/AljazBozic/DeepDeform)|
 |[Hybrid Modeling of Non-Rigid Scenes From RGBD Cameras](https://ieeexplore.ieee.org/document/8425011)| TCSVT 2019 | [project](https://cvssp.org/projects/4d/dynamic_rgbd_modelling/) <br> [data](https://cvssp.org/projects/4d/dynamic_rgbd_modelling/) |
