@@ -1,5 +1,10 @@
 # Awesome Dynamic Scene Reconstruction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome dynamic scene reconstruction datasets, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+A curated list of awesome dynamic scene reconstruction papers and datasets, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
+
+To contribute to this list, please submit a pull request and edit README.md with a table entry in the following format:<br>
+<rawtext>
+| [Paper title](paper url) | venue acronym and year | [project](project url) &lt;br> [code](code url) &lt;br> [data](data url) |
+</rawtext>
 
 ## Papers 
 Papers are organised into two categories, "General Scenes" and "Human-centric", with links to paper, project, code and datasets where available.
