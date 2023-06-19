@@ -1,6 +1,7 @@
 # Awesome Dynamic Scene Reconstruction [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome dynamic scene reconstruction papers and datasets, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
+## Contribute 
 To contribute to this list, please submit a pull request and edit README.md with a table entry in the following format:<br>
 <rawtext>
 | [Paper title](paper url) | venue acronym and year | [project](project url) &lt;br> [code](code url) &lt;br> [data](data url) |
@@ -17,6 +18,8 @@ Papers are organised into two categories, "General Scenes" and "Human-centric", 
 |[Temporal Interpolation Is All You Need for Dynamic Neural Radiance Fields](https://arxiv.org/abs/2302.09311)| CVPR 2023 | [project](https://sungheonpark.github.io/tempinterpnerf/) |
 |[HexPlane: A Fast Representation for Dynamic Scenes](https://arxiv.org/abs/2301.09632)| CVPR 2023 | [project](https://caoang327.github.io/HexPlane/) <br> [code](https://github.com/Caoang327/HexPlane) |
 |[NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/abs/2303.14435)|CVPR 2023 | [project](https://jokeryan.github.io/projects/nerf-ds/) <br> [code](https://github.com/JokerYan/NeRF-DS) <br> [data](https://github.com/JokerYan/NeRF-DS/releases/tag/v0.1-pre-release) | 
+|[RoDynRF:Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239)| CVPR 2023| [project](https://robust-dynrf.github.io/?ref=dataphoenix.info)|
+|[DyLiN: Making Light Field Networks Dynamic](https://arxiv.org/abs/2303.14243)| CVPR 2023 | [project](https://dylin2023.github.io/) <br> [code](https://github.com/Heng14/DyLiN) | 
 |[Neural 3D Video Synthesis from Multi-view Video](https://arxiv.org/abs/2103.02597)| CVPR 2022 | [project](https://neural-3d-video.github.io/) <br> [data](https://github.com/facebookresearch/Neural_3D_Video) |
 |[OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://arxiv.org/abs/2203.07977) | CVPR 2022 | [project](https://wenbin-lin.github.io/OcclusionFusion/) <br> [code](https://github.com/wenbin-lin/OcclusionFusion/) | 
 |[DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data](https://arxiv.org/abs/1912.04302)| CVPR 2020 | [project](https://niessnerlab.org/projects/bozic2020deepdeform.html) <br> [data](https://github.com/AljazBozic/DeepDeform)|
@@ -30,6 +33,9 @@ Papers are organised into two categories, "General Scenes" and "Human-centric", 
 |Title|Venue|Links|
 |-----| :---:| :---: |
 |[HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](https://arxiv.org/abs/2305.06356)| CVPR 2023 | [project](https://synthesiaresearch.github.io/humanrf/) <br> [code](https://github.com/synthesiaresearch/humanrf) <br> [data](https://www.actors-hq.com/)|
+|[Learning Neural Volumetric Representations of Dynamic Humans in Minutes](https://openaccess.thecvf.com/content/CVPR2023/papers/Geng_Learning_Neural_Volumetric_Representations_of_Dynamic_Humans_in_Minutes_CVPR_2023_paper.pdf) | CVPR 2023 | [project](https://zju3dv.github.io/instant_nvr/) <br> [code](https://github.com/zju3dv/instant-nvr/) <br> [data](https://github.com/zju3dv/instant-nvr/blob/master/docs/install.md#set-up-datasets)|
+|[Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering](https://arxiv.org/abs/2211.11610)| CVPR 2023 | [project](https://liuyebin.com/tensor4d/tensor4d.html) <br> [code](https://github.com/DSaurus/Tensor4D) <br> [data](https://mailstsinghuaeducn-my.sharepoint.com/:f:/g/personal/shaorz20_mails_tsinghua_edu_cn/EsNxn0pJ19lFrRMKAS1YDx0Bv_V9LAdub9jnYvT40QZEDA?e=ChbsFX)|
+|[Representing Volumetric Videos as Dynamic MLP Maps](https://arxiv.org/abs/2304.06717)| CVPR 2023 | [project](https://zju3dv.github.io/mlp_maps/) <br> [code](https://github.com/zju3dv/mlp_maps) <br> [data](https://github.com/zju3dv/mlp_maps/blob/master/INSTALL.md)|
 |[Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](https://arxiv.org/abs/2105.01859)| CVPR 2021 | [project](http://www.liuyebin.com/Function4D/Function4D.html) <br> [data](https://github.com/ytrock/THuman2.0-Dataset)|
 |[SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://arxiv.org/abs/2007.11610)| ECCV 2020 | [project](https://virtualhumans.mpi-inf.mpg.de/sizer/) <br> [code](https://github.com/garvita-tiwari/sizer) <br> [data](https://nextcloud.mpi-klsb.mpg.de/index.php/s/nx6wK6BJFZCTF8C/authenticate/showShare) | 
 |[DeepHuman: 3D Human Reconstruction from a Single Image](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_DeepHuman_3D_Human_Reconstruction_From_a_Single_Image_ICCV_2019_paper.pdf)| ICCV 2019 | [project](http://www.liuyebin.com/deephuman/deephuman.html) <br> [data](http://www.liuyebin.com/deephuman/deephuman.html) |
