@@ -6,10 +6,10 @@ Papers are organised into two categories, "General Scenes" and "Human-centric", 
 
 ### General Scenes
 |Title|Venue|Links|
-|-----|-----|-----|
+|-----| :---:| :---: |
 |[DynIBaR Neural Dynamic Image-Based Rendering](https://arxiv.org/abs/2211.11082) | CVPR 2023| [project](https://dynibar.github.io/)<br>[code](https://github.com/google/dynibar)|
 |[DynamicStereo: Consistent Dynamic Depth from Stereo Videos](https://arxiv.org/abs/2305.02296) | CVPR 2023 | [project](https://dynamic-stereo.github.io/) <br> [code](https://github.com/facebookresearch/dynamic_stereo)|
-|[OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://arxiv.org/abs/2203.07977) | CVPR 2023 | [project](https://wenbin-lin.github.io/OcclusionFusion/) <br> [code](https://github.com/wenbin-lin/OcclusionFusion/) | 
+|[OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction](https://arxiv.org/abs/2203.07977) | CVPR 2022 | [project](https://wenbin-lin.github.io/OcclusionFusion/) <br> [code](https://github.com/wenbin-lin/OcclusionFusion/) | 
 |[DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data](https://arxiv.org/abs/1912.04302)| CVPR 2020 | [project](https://niessnerlab.org/projects/bozic2020deepdeform.html) <br> [data](https://github.com/AljazBozic/DeepDeform)|
 |[Hybrid Modeling of Non-Rigid Scenes From RGBD Cameras](https://ieeexplore.ieee.org/document/8425011)| TCSVT 2019 | [project](https://cvssp.org/projects/4d/dynamic_rgbd_modelling/) <br> [data](https://cvssp.org/projects/4d/dynamic_rgbd_modelling/) |
 |[General Dynamic Scene Reconstruction from Multiple View Video](https://openaccess.thecvf.com/content_iccv_2015/papers/Mustafa_General_Dynamic_Scene_ICCV_2015_paper.pdf)| ICCV 2015 |[project](https://cvssp.org/projects/4DMP/DyRecon/) <br> [data](https://cvssp.org/data/cvssp3d/)|
@@ -19,7 +19,7 @@ Papers are organised into two categories, "General Scenes" and "Human-centric", 
 
 ### Human-centric
 |Title|Venue|Links|
-|-----|-----|-----|
+|-----| :---:| :---: |
 |[HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion](https://arxiv.org/abs/2305.06356)| CVPR 2023 | [project](https://synthesiaresearch.github.io/humanrf/) <br> [code](https://github.com/synthesiaresearch/humanrf) <br> [data](https://www.actors-hq.com/)|
 |[Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](https://arxiv.org/abs/2105.01859)| CVPR 2021 | [project](http://www.liuyebin.com/Function4D/Function4D.html) <br> [data](https://github.com/ytrock/THuman2.0-Dataset)|
 |[SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://arxiv.org/abs/2007.11610)| ECCV 2020 | [project](https://virtualhumans.mpi-inf.mpg.de/sizer/) <br> [code](https://github.com/garvita-tiwari/sizer) <br> [data](https://nextcloud.mpi-klsb.mpg.de/index.php/s/nx6wK6BJFZCTF8C/authenticate/showShare) | 
