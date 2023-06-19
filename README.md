@@ -26,3 +26,18 @@ A curated list of awesome dynamic scene reconstruction datasets, inspired by [aw
 |[MPI Dynamic FAUST](https://dfaust.is.tue.mpg.de/)|
 |[SURREAL Dataset](https://www.di.ens.fr/willow/research/surreal/data/)|
 |[SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing](https://virtualhumans.mpi-inf.mpg.de/sizer/)|
+
+
+
+## Papers
+
+### General Scenes
+|Title|Venue|Links|
+|-----|-----|-----|
+|[DynIBaR Neural Dynamic Image-Based Rendering](https://arxiv.org/abs/2211.11082) | CVPR 2023| [project](https://dynibar.github.io/)<br>[code](https://github.com/google/dynibar)|
+|[DynamicStereo: Consistent Dynamic Depth from Stereo Videos](https://arxiv.org/abs/2305.02296) | CVPR 2023 | [project](https://dynamic-stereo.github.io/) <br> [code](https://github.com/facebookresearch/dynamic_stereo)|
+|[General Dynamic Scene Reconstruction from Multiple View Video](https://openaccess.thecvf.com/content_iccv_2015/papers/Mustafa_General_Dynamic_Scene_ICCV_2015_paper.pdf)| ICCV 2015 |[project](https://cvssp.org/projects/4DMP/DyRecon/)|
+|[3D Reconstruction of Dynamic Scenes with Multiple Handheld Cameras](https://link.springer.com/chapter/10.1007/978-3-642-33709-3_43)| ECCV 2012|-|
+|[Multi-view Occlusion Reasoning for Probabilistic Silhouette-Based Dynamic Scene Reconstruction](http://vision.cse.psu.edu/research/3Dreconstruction/relatedWork/papers/GuanAndPollefeys_SilhouetteBased.pdf)| IJCV 2010 | - |
+
+
